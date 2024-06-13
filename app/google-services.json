@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "826954392119",
+    "project_id": "photomemory-384400",
+    "storage_bucket": "photomemory-384400.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826954392119:android:d043d15918f5ecd7f055b2",
+        "android_client_info": {
+          "package_name": "com.example.photomemoryalbumapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "826954392119-k182dhb56grdg2bejlmrjd9r1v0lllv6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.photomemoryalbumapp",
+            "certificate_hash": "6183fe9db120765bae2d81c394f31ade76db0932"
+          }
+        },
+        {
+          "client_id": "826954392119-a1ev5kiootf56skkt40hbvgq85pg8mlp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJUryQC_K2cTqMlcFaf7OyLF4maZ87CS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "826954392119-a1ev5kiootf56skkt40hbvgq85pg8mlp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

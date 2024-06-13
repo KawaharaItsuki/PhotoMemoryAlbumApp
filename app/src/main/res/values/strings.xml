@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PhotoMemoryAlbumApp</string>
+    <string name="title_activity_pust_map">PustMap</string>
+    <string name="title_activity_now_location">NowLocation</string>
+</resources>
